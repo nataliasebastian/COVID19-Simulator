@@ -3,4 +3,4 @@ This is a COVID-19 simulation model developed in Greenfoot, an integrated develo
 
 ## Results
 
-![](https://www.youtube.com/watch?v=F4J7oywZpFE)
+![](https://img.youtube.com/vi/F4J7oywZpFE/maxresdefault.jpg)(https://www.youtube.com/watch?v=F4J7oywZpFE)
