@@ -1,1 +1,1 @@
-# COVID19-Simulator
+# COVID19 Simulator
