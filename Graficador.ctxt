@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Graficador
+comment0.text=\n\ La\ clase\ Graficador\ ofrece\ distintas\ formas\ de\ graficar\ una\ variable.\n\ \n\ @author\ Natalia\ Sebastian\n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=imagen\ colorLinea\ escala_x\ escala_y
+comment1.target=Graficador(greenfoot.GreenfootImage,\ greenfoot.Color,\ double,\ double)
+comment1.text=\n\ Constructor\ de\ la\ clase\ Graficador\n\ @param\ imagen\ Imagen\n\ @param\ colorLinea\ Color\ de\ la\ l\u00EDnea\n\ @param\ escala_x\ Escala\ del\ eje\ X\n\ @param\ escala_y\ Escala\ del\ eje\ Y\n
+comment2.params=
+comment2.target=void\ desplazar()
+comment2.text=\n\ Desplaza\ la\ posici\u00F3n\ en\ el\ eje\ donde\ se\ debe\ mostrar\ el\ siguiente\ valor\n
+comment3.params=valor
+comment3.target=int\ obtenerValorFinal(int)
+comment3.text=\n\ Dado\ un\ valor,\ calcula\ y\ devuelve\ el\ valor\ escalado\n\ @param\ valor\ Valor\ de\ la\ variable\ que\ queremos\ escalar\n
+comment4.params=valor
+comment4.target=void\ trazarValor(int)
+comment4.text=\n\ Dibuja\ la\ traza\ del\ valor\n\ @param\ valor\ Valor\ que\ se\ va\ a\ representar\n
+comment5.params=imagen
+comment5.target=void\ setImage(greenfoot.GreenfootImage)
+comment5.text=\n\ Establece\ la\ imagen\ del\ graficador\ en\ la\ pasada\ por\ par\u00E1metro\n\ @param\ imagen\ Imagen\ que\ se\ va\ a\ asignar\ al\ graficador\n
+numComments=6

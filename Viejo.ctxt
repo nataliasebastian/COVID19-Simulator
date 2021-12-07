@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Viejo
+comment0.text=\n\ Un\ viejo\ en\ nuestra\ simulaci\u00F3n.\ Un\ viejo\ puede\ estar\ sano,\ infectado\ o\ inmune.\n\ \n\ @author\ Natalia\ Sebastian\n\ \n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=aislado
+comment1.target=Viejo(boolean)
+comment1.text=\n\ Crea\ un\ viejo\ que\ podr\u00E1\ estar\ aislado\ o\ no..\n\ @param\ aislado\ Indica\ si\ el\ viejo\ se\ encuentra\ aislado\ o\ no\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\n\ Moverse\ por\ los\ alrededores\ (ligeramente\ aleatoriamente).\n
+numComments=3
