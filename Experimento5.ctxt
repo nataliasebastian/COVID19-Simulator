@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Experimento5
+comment0.text=\n\ El\ experimento\ es\ donde\ se\ configuran\ distintos\ espacios\ con\ distintos\ aforos.\n\ \n\ Esta\ clase\ crea\ la\ poblacion\ (con\ una\ persona\ aleatoriamente\ infectada).\ \n\ \n\ @author\ Felipe\ I.\ Anfurrutia\n\ @version\ Natalia\ Sebastian\n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=
+comment1.target=Experimento5()
+comment1.text=\n\ Inicializa\ la\ simulaci\u00F3n\:\ crea\ la\ poblaci\u00F3n\ con\ una\ persona\ infectada.\n
+comment2.params=
+comment2.target=void\ preparar()
+comment2.text=\n\ Preparar\ el\ mundo\ para\ realizar\ un\ experimento,\ es\ decir,\n\ crear\ varios\ espacios\ iniciales\ con\ distintas\ poblaciones\ (una\ persona\ infectada)\n\ y\ los\ a\u00F1ade\ al\ mundo\n
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GraficadorColumna
+comment0.text=\n\ La\ clase\ GraficadorColumna\ sirve\ para\ dibujar\ gr\u00E1ficos\ de\ columnas.\n\ \n\ @author\ Natalia\ Sebastian\n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=imagen\ colorLinea\ escala_x\ escala_y
+comment1.target=GraficadorColumna(greenfoot.GreenfootImage,\ greenfoot.Color,\ double,\ double)
+comment1.text=\n\ Constructor\ de\ la\ clase\ GraficadorColumna\n\ @param\ imagen\ Imagen\n\ @param\ colorLinea\ Color\ de\ la\ l\u00EDnea\n\ @param\ escala_x\ Escala\ del\ eje\ X\n\ @param\ escala_y\ Escala\ del\ eje\ Y\n
+comment2.params=valor
+comment2.target=void\ trazarValor(int)
+comment2.text=\n\ Dibuja\ la\ traza\ del\ valor\n\ @param\ valor\ Valor\ que\ se\ va\ a\ representar\n
+comment3.params=
+comment3.target=void\ desplazar()
+numComments=4
