@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nino
+comment0.text=\n\ Un\ ni\u00F1o\ en\ nuestra\ simulaci\u00F3n.\ Un\ ni\u00F1o\ puede\ estar\ sano,\ infectado\ o\ inmune.\n\ \n\ @author\ Natalia\ Sebastian\n\ \n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=aislado\ madre
+comment1.target=Nino(boolean,\ Persona)
+comment1.text=\n\ Crea\ un\ ni\u00F1o\ que\ podr\u00E1\ estar\ aislado\ o\ no,\ y\ se\ relacionar\u00E1\ con\ su\ madre.\n\ @param\ aislado\ Indica\ si\ el\ ni\u00F1o\ se\ encuentra\ aislado\ o\ no\n\ @param\ madre\ La\ madre\ del\ ni\u00F1o\n
+comment2.params=imagen
+comment2.target=void\ cambiarImagen(java.lang.String)
+comment2.text=\n\ Cambia\ la\ imagen\ asignada\ al\ ni\u00F1o.\n\ @param\ imagen\ Nombre\ de\ la\ imagen\ que\ se\ le\ quiere\ asignar.\ \n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\n\ Se\ mueve\ con\ su\ madre\n
+numComments=4
