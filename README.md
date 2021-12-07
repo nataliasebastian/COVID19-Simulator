@@ -6,6 +6,7 @@ The simulator represents graphically the number of infections to compare the eff
 ## Results
 ### Simulation for different size populations
 This simulation represents 3 countries with different population densities. We can check that countries with higher densities per m2 suffer worse consequences.
+
 https://user-images.githubusercontent.com/81468329/145090727-19d155d9-4756-4b6f-bf10-c1f4d422bac2.mp4
 
 
