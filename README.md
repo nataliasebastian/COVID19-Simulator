@@ -1,7 +1,15 @@
 # COVID-19 Simulator
 This is a COVID-19 simulation model developed in Greenfoot, an integrated development environment, using Java.
 
+It is assumed that the disease is highly contagious (contact with an infected person leads to infection), and that person who contains the disease and is later cured will be immune.
+
+Colors:     blue - healthy
+            orange - infected / contagious
+            green - immune
+
 The simulator represents graphically the number of infections to compare the effect of COVID-19 in different environments. 
+
+
 
 ## Results
 ### Simulation for different size populations
