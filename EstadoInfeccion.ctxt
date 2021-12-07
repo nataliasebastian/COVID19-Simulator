@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EstadoInfeccion
+comment0.text=\n\ El\ estado\ en\ el\ que\ se\ puede\ encontrar\ una\ persona\:\ susceptible,\ infectada\ o\ inmune.\n\ \n\ @author\ Natalia\ Sebasti\u00E1n)\n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=nombreImagen
+comment1.target=EstadoInfeccion(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getImagen()
+comment2.text=\n\ Devuelve\ la\ imagen\ relacionada\ con\ el\ estado\ de\ infecci\u00F3n.\n\ @return\ Nombre\ de\ la\ imagen\n
+numComments=3
