@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MiMundo
+comment0.text=\n\ El\ mundo\ es\ el\ espacio\ donde\ vive\ la\ gente.\n\ \n\ Esta\ clase\ crea\ la\ poblaci\u00F3n\ (con\ una\ persona\ aleatoriamente\ infectada).\ Tambi\u00E9n\ dibuja\ el\ gr\u00E1fico\ en\ el\ fondo\ del\ mundo.\n\ \n\ @author\ Felipe\ I.\ Anfurrutia\n\ @version\ 5\ (Mayo\ 2021)\n
+comment1.params=
+comment1.target=MiMundo()
+comment1.text=\n\ Inicializa\ la\ simulaci\u00F3n\:\ crea\ la\ poblaci\u00F3n\ con\ una\ persona\ infectada.\n
+comment2.params=numPersonas\ porcentajeAislados
+comment2.target=void\ poblar(int,\ float)
+comment2.text=\n\ Crea\ la\ poblaci\u00F3n\ inicial,\ colocada\ aleatoriamente\n\ @param\ numPersonas\ N\u00FAmero\ de\ personas\ del\ mundo\n\ @param\ porcentajeAislados\ Porcentaje\ de\ aislados\ en\ el\ mundo\n
+numComments=3
